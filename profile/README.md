@@ -1,74 +1,67 @@
 <h1 align="center">🚀 Suceava Hacks</h1>
 
 <p align="center">
-  <strong>A student-led tech community in Suceava, Romania</strong><br>
-  Empowering high schoolers to build, break, and belong through code.
+  A student-led tech community based in Suceava, Romania.
+  <br>
+  We create spaces for high schoolers to learn, build, and connect through technology.
 </p>
 
 <p align="center">
-  🌍 Suceava, Romania • 🧠 Creativity & Inclusion • 💡 Part of the <a href="https://hackclub.com">Hack Club</a> network
+  🌍 Suceava, Romania &nbsp; | &nbsp; 🧠 Learning by doing &nbsp; | &nbsp; 💡 Part of the <a href="https://hackclub.com">Hack Club</a> network
 </p>
 
 ---
 
-## 🎯 Our Mission
+## 🎯 About Us
 
-We believe that **anyone can become a creator** — regardless of background or experience.  
-**Suceava Hacks** is where teens:
+Suceava Hacks is a local initiative run by students who are passionate about tech, learning, and building things that matter.  
+We organize events, meetups, and workshops where high schoolers can explore programming, cybersecurity, and other areas of technology in a friendly and supportive environment.
 
-- 🚀 Build meaningful projects  
-- 💥 Learn by doing (and breaking things)  
-- 💬 Connect with like-minded people  
-- 🌱 Grow through collaboration  
-- 🤝 Contribute to open-source  
-
-We’re here to make tech accessible, exciting, and full of possibility.
+Our goal is simple: help people get started, improve together, and build cool stuff along the way.
 
 ---
 
 ## 🛠️ What We Do
 
-- 🧑‍💻 **Hackathons**  
-  Beginner-friendly events where anyone can build something awesome in 12–24 hours.
+- **Hackathons**  
+  Short, focused events where participants build a tech project — no experience required.
 
-- 🔐 **CTFs & Workshops**  
-  Hands-on learning in cybersecurity, programming, and networking.
+- **Workshops & CTFs**  
+  Interactive sessions on coding, networking, and cybersecurity, open to all levels.
 
-- 👥 **Clubs & Meetups**  
-  Regular gatherings — online and IRL — to share, teach, and explore together.
+- **Clubs & Meetups**  
+  Regular discussions, mini-projects, and collaboration — online and in person.
 
-- 🧵 **Community Projects**  
-  Open-source tools and resources made by and for our local tech scene.
+- **Community Projects**  
+  Small open-source tools or experiments built with and for the local community.
 
 ---
 
-## 🌟 Upcoming: [Hackovina 2025](https://hackovina.org)
+## 🌟 Next Up: [Hackovina 2025](https://hackovina.org)
 
-📅 **April 26, 2025** — Suceava, Romania  
-🕛 A 12-hour hackathon made for high schoolers, by high schoolers.  
-✨ No experience needed. Just bring your curiosity.
+📅 April 26, 2025 — Suceava  
+A 12-hour hackathon for high school students.  
+Open to anyone curious about tech — beginners welcome.
 
 ---
 
 ## 🤝 Partners & Support
 
-- 💡 [Hack Club](https://hackclub.com)  
-- 🏫 Local schools and educators from Suceava  
+- [Hack Club](https://hackclub.com)  
+- Local schools and educators from Suceava
 
 ---
 
 ## 📬 Get Involved
 
-Whether you're a student, mentor, educator, or sponsor — we'd love to hear from you:
+Whether you're a student, a mentor, or just someone who wants to support tech education — we'd love to hear from you:
 
 - 🌐 Website: [ping.suceavahacks.org](https://ping.suceavahacks.org)  
 - 💬 Discord: [discord.gg/suceavahacks](https://discord.gg/suceavahacks)  
-- 📧 Email: [contact@suceavahacks.org](mailto:contact@suceavahacks.org)  
-
-> 🧑‍🏫 We're always looking for mentors, volunteers, and curious minds!
+- ✉️ Email: [contact@suceavahacks.org](mailto:contact@suceavahacks.org)
 
 ---
 
 <p align="center">
-  Made with 💙 by high schoolers in Suceava, for the world.
+  Built by students in Suceava. For learners everywhere.
 </p>
