@@ -1,4 +1,4 @@
-![SVH](svh.png)
+![SVH](../svh.png)
 <h1 align="center">🚀 Suceava Hacks</h1>
 
 <p align="center">
