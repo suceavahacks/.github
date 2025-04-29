@@ -1,4 +1,4 @@
-![SVH](https://hc-cdn.hel1.your-objectstorage.com/s/v3/2ee325876ef7ba25553cb27e9c7402dcf566f954_svh.png)
+![SVH](svh.png)
 <h1 align="center">🚀 Suceava Hacks</h1>
 
 <p align="center">
