@@ -1,3 +1,4 @@
+[SVH](https://hc-cdn.hel1.your-objectstorage.com/s/v3/2ee325876ef7ba25553cb27e9c7402dcf566f954_svh.png)
 <h1 align="center">🚀 Suceava Hacks</h1>
 
 <p align="center">
@@ -25,23 +26,12 @@ Our goal is simple: help people get started, improve together, and build cool st
 
 - **Hackathons**  
   Short, focused events where participants build a tech project — no experience required.
-
 - **Workshops & CTFs**  
   Interactive sessions on coding, networking, and cybersecurity, open to all levels.
-
 - **Clubs & Meetups**  
   Regular discussions, mini-projects, and collaboration — online and in person.
-
 - **Community Projects**  
   Small open-source tools or experiments built with and for the local community.
-
----
-
-## 🌟 Next Up: [Hackovina 2025](https://hackovina.org)
-
-📅 April 26, 2025 — Suceava  
-A 12-hour hackathon for high school students.  
-Open to anyone curious about tech — beginners welcome.
 
 ---
 
