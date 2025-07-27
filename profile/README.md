@@ -47,8 +47,8 @@ Our goal is simple: help people get started, improve together, and build cool st
 Whether you're a student, a mentor, or just someone who wants to support tech education — we'd love to hear from you:
 
 - 🌐 Website: [ping.suceavahacks.org](https://ping.suceavahacks.org)  
-- 💬 Discord: [discord.gg/suceavahacks](https://discord.gg/suceavahacks)  
-- ✉️ Email: [contact@suceavahacks.org](mailto:contact@suceavahacks.org)
+- 💬 Discord: [discord.gg/suceavahacks](https://discord.gg/qDPZXZAAyN)  
+- ✉️ Email: [contact@suceavahacks.org](mailto:adelin@hackclub.app)
 
 ---
 
