@@ -13,7 +13,7 @@
 
 ---
 
-## 🎯 About Us
+## 🎯 About us
 
 Suceava Hacks is a local initiative run by students who are passionate about tech, learning, and building things that matter.  
 We organize events, meetups, and workshops where high schoolers can explore programming, cybersecurity, and other areas of technology in a friendly and supportive environment.
@@ -22,7 +22,7 @@ Our goal is simple: help people get started, improve together, and build cool st
 
 ---
 
-## 🛠️ What We Do
+## 🛠️ What we do
 
 - **Hackathons**  
   Short, focused events where participants build a tech project — no experience required.
@@ -35,14 +35,14 @@ Our goal is simple: help people get started, improve together, and build cool st
 
 ---
 
-## 🤝 Partners & Support
+## 🤝 Partners & support
 
 - [Hack Club](https://hackclub.com)  
 - Local schools and educators from Suceava
 
 ---
 
-## 📬 Get Involved
+## 📬 Get involved
 
 Whether you're a student, a mentor, or just someone who wants to support tech education — we'd love to hear from you:
 
