@@ -1,58 +1,47 @@
-![SVH](../svh.png)
-<h1 align="center">🚀 Suceava Hacks</h1>
+# Suceava Hacks
 
-<p align="center">
-  A student-led tech community based in Suceava, Romania.
-  <br>
-  We create spaces for high schoolers to learn, build, and connect through technology.
-</p>
+**A student-led tech community based in Suceava, Romania.**
 
-<p align="center">
-  🌍 Suceava, Romania &nbsp; | &nbsp; 🧠 Learning by doing &nbsp; | &nbsp; 💡 Part of the <a href="https://hackclub.com">Hack Club</a> network
-</p>
+Suceava Hacks provides high school students with the environment and resources to learn, build, and network through technology. We operate as a local initiative within the global [Hack Club](https://hackclub.com) network.
 
 ---
 
-## 🎯 About us
+## About Us
 
-Suceava Hacks is a local initiative run by students who are passionate about tech, learning, and building things that matter.  
-We organize events, meetups, and workshops where high schoolers can explore programming, cybersecurity, and other areas of technology in a friendly and supportive environment.
+Suceava Hacks is a project run by students dedicated to technology and peer-to-peer learning. We organize events, meetups, and workshops where students can explore programming, cybersecurity, and software engineering in a collaborative setting.
 
-Our goal is simple: help people get started, improve together, and build cool stuff along the way.
-
----
-
-## 🛠️ What we do
-
-- **Hackathons**  
-  Short, focused events where participants build a tech project — no experience required.
-- **Workshops & CTFs**  
-  Interactive sessions on coding, networking, and cybersecurity, open to all levels.
-- **Clubs & Meetups**  
-  Regular discussions, mini-projects, and collaboration — online and in person.
-- **Community Projects**  
-  Small open-source tools or experiments built with and for the local community.
+Our objective is to bridge the gap between theory and practice, helping beginners get started while providing experienced builders a platform to improve.
 
 ---
 
-## 🤝 Partners & support
+## Our Activities
 
-- [Hack Club](https://hackclub.com)  
-- Local schools and educators from Suceava
-
----
-
-## 📬 Get involved
-
-Whether you're a student, a mentor, or just someone who wants to support tech education — we'd love to hear from you:
-
-- 🌐 Website: [ping.suceavahacks.org](https://ping.suceavahacks.org)
-- 🟦 Linkedin: [linkedin.com/company/suceavahacks](https://www.linkedin.com/company/suceavahacks)  
-- 💬 Discord: [discord.gg/qDPZXZAAyN](https://discord.gg/qDPZXZAAyN)  
-- ✉️ Email: [adelin@hackclub.app](mailto:adelin@hackclub.app)
+* **Hackathons**
+    Short-term events where participants collaborate to build functional tech projects.
+* **Workshops & CTFs**
+    Interactive sessions on coding and cybersecurity (Capture The Flag) competitions.
+* **Clubs & Meetups**
+    Regular sessions for technical discussion and collaboration, held both online and in person.
+* **Community Projects**
+    Open-source tools and software experiments developed by and for the local community.
 
 ---
 
-<p align="center">
-  Built by students in Suceava. For learners everywhere.
-</p>
+## Partners & Support
+
+* **Hack Club:** Global support and resource network.
+* **Local Educators:** Collaboration with schools and teachers within the Suceava region.
+
+---
+
+## Contact & Involvement
+
+We welcome students, mentors, and partners to connect with us:
+
+* **Website:** [ping.suceavahacks.org](https://ping.suceavahacks.org)
+* **LinkedIn:** [linkedin.com/company/suceavahacks](https://www.linkedin.com/company/suceavahacks)
+* **Discord:** [discord.gg/qDPZXZAAyN](https://discord.gg/qDPZXZAAyN)
+* **Email:** [adelin@hackclub.app](mailto:adelin@hackclub.app)
+
+---
+*Built by students in Suceava. For learners everywhere.*
